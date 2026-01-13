@@ -1,0 +1,21 @@
+<!doctype html>
+<div></div>
+<html>
+<head>
+<meta charset="utf-8">
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+	<ul>
+  <li><a href="#My Apps">My Apps</a></li>
+<title>Josho's Website</title>
+<head>
+
+<body>
+	&nbsp;
+	<center>
+	<h2> Josho's cool website </h2>
+
+	<img src="https://spaces-cdn.clipsafari.com/jy2qjm9r7x29bsprnam1fnz2lqs4">
+	</center>
+</body>
+</html>
